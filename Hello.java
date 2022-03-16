@@ -12,7 +12,7 @@ public class Hello {
         int totalSum = (int) ((numFirst + numSecond) * 100);
 
         //System.out.println("The sum of two random numbers is " + (totalSum) + "!");
-
+        //add
 
         //Changing program to do subtraction
         int totalDiff = (int) (Math.abs(numFirst - numSecond) * 100);
